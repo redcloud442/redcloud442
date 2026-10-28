@@ -17,8 +17,8 @@ inside real products.
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,sass,postgres,mongodb,mysql,redis,supabase,firebase,docker,cloudflare,vercel,git&perline=9&theme=dark">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,sass,postgres,mongodb,mysql,redis,supabase,firebase,docker,cloudflare,vercel,git&perline=9&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,go,html,css,react,nextjs,remix,redux,tailwind,sass,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,cloudflare,vercel,git,github,postman,vscode&perline=14&theme=dark">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,go,html,css,react,nextjs,remix,redux,tailwind,sass,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,cloudflare,vercel,git,github,postman,vscode&perline=14&theme=light">
 </picture>
 
 <br>
