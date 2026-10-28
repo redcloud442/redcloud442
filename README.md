@@ -17,8 +17,8 @@ inside real products.
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,go,html,css,react,nextjs,remix,redux,tailwind,sass,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,cloudflare,vercel,git,github,postman,vscode&perline=14&theme=dark">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,go,html,css,react,nextjs,remix,redux,tailwind,sass,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,supabase,firebase,docker,cloudflare,vercel,git,github,postman,vscode&perline=14&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cgo%2Chtml%2Ccss%2Creact%2Cnextjs%2Cremix%2Credux%2Ctailwind%2Csass%2Cnodejs%2Cexpress%2Cnestjs%2Cprisma%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Csupabase%2Cfirebase%2Cdocker%2Ccloudflare%2Cvercel%2Cgit%2Cgithub%2Cpostman%2Cvscode&perline=14&theme=dark">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cgo%2Chtml%2Ccss%2Creact%2Cnextjs%2Cremix%2Credux%2Ctailwind%2Csass%2Cnodejs%2Cexpress%2Cnestjs%2Cprisma%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Csupabase%2Cfirebase%2Cdocker%2Ccloudflare%2Cvercel%2Cgit%2Cgithub%2Cpostman%2Cvscode&perline=14&theme=light">
 </picture>
 
 <br>
